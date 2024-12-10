@@ -1,0 +1,28 @@
+metadata_version: 1
+name: Deep Learning Predicts Subtype Heterogeneity and Outcomes in Luminal A Breast
+  Cancer Using Routinely Stained Whole Slide Images
+description: Code base for Deep Learning Predicts Subtype Heterogeneity and Outcomes
+  in Luminal A Breast Cancer Using Routinely Stained Whole Slide Images
+tags:
+- Deep Leanring
+- Breast Cancer
+- tumor heterogeneity
+authors:
+- name: Nikhil Cherian Kurian
+  affiliations:
+  - name: Indian Institute of Technology Bombay
+- name: Peter H. Gann
+  affiliations:
+  - name: University of Illinois at Chicago
+- name: Neeraj Kumar
+  affiliations:
+  - name: Memorial Sloan Kettering Cancer Center
+- name: Stephanie M. McGregor
+  affiliations:
+  - name: University of Wisconsin, Madison,
+- name: Ruchika Verma
+  affiliations:
+  - name: Icahn School of Medicine at Mount Sinai
+- name: Amit Sethi
+  affiliations:
+  - name: Indian Institute of Technology Bombay

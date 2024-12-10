@@ -1,0 +1,18 @@
+# configure.yaml file
+
+ 
+batch_size: 80 
+lr: 0.0001
+weight_decay: 0.2
+batch_size: 90
+device: 'cuda:0'
+num_classes: 2
+loss_criterion: 'rce'
+num_workers: 20 
+val_interval: 10
+num_epochs: 2000
+pos_class: 'luma'
+record_epoch: 100
+train_patients_txt: 'train.txt'
+val_patients_txt: 'val.txt'
+out: '/path/to/results'
