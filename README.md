@@ -5,13 +5,10 @@ This repository contains the necessary scripts and code used for testing the dee
 
 ## Dataset
 
-A sample dataset of histology image patches, which includes both Luminal A and non-Luminal A cases, is provided and stored in:
 
-```plaintext
-./data/
 ```
 
-If this code base is run outside the provided capsule, all required Python pip packages are listed in the file `./codes/requirements.txt` and can be installed using:
+To run this code base, all required Python pip packages are listed in the file `./codes/requirements.txt` and can be installed using:
 
 ```bash
 pip install -r ./codes/requirements.txt
