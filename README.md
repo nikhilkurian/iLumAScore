@@ -2,17 +2,12 @@
 # Deep Learning Predicts Subtype Heterogeneity and Outcomes in Luminal A Breast Cancer Using Routinely Stained Whole Slide Images
 
 This repository contains the necessary scripts and code used for testing the deep learning (DL) model with histology image patches extracted from annotated svs files. Below is a detailed description of each script and its purpose, along with instructions on how to run the code and train/test the model.
-
 ## Dataset
 
-
-```
-
-To run this code base, all required Python pip packages are listed in the file `./codes/requirements.txt` and can be installed using:
+If this code base is run outside the provided capsule, all required Python pip packages are listed in the file `./codes/requirements.txt` and can be installed using:
 
 ```bash
 pip install -r ./codes/requirements.txt
-```
 
 ## Running the Code
 
